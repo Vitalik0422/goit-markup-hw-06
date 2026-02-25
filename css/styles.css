@@ -322,6 +322,9 @@ h4 {
 
 .team-card-description-container {
   padding: 32px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .team-card-description-container .team {
   margin-bottom: 8px;
