@@ -803,11 +803,9 @@ h4 {
 /* ------FORM ANSWERS----- */
 
 .modal-form {
-  margin-top: 16px;
   width: 100%;
   display: flex;
   flex-direction: column;
-  row-gap: 8px;
 }
 
 .form-element-container {
